@@ -1,0 +1,1 @@
+We can call the array with the index we want to access appended to the right in brackets, e.g.: array[#]

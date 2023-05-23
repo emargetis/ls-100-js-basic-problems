@@ -1,0 +1,3 @@
+The Mozilla Foundation Documentation (https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects)
+
+Alternatively, you can use more offical documentation at ECMA (https://www.ecma-international.org/publications-and-standards/standards/ecma-262/)

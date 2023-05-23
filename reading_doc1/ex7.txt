@@ -1,0 +1,18 @@
+The return is a string containing the data type
+
+Type	Result
+Undefined	"undefined"
+Null	"object" (reason)
+Boolean	"boolean"
+Number	"number"
+BigInt	"bigint"
+String	"string"
+Symbol	"symbol"
+Function (implements [[Call]] in ECMA-262 terms; classes are functions as well)	"function"
+Any other object	"object"
+
+typeof 23.5; => "number"
+typeof 'Call me Ishmael.'; => "string" 
+typeof false; => "boolean"
+typeof null; => "object" | note that this a historic bug and it's too late to fix it
+typeof undefined; => "undefined"

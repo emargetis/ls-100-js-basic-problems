@@ -1,0 +1,2 @@
+'8' == 8; // => returns true because == is a standard equality and JS will make an attempt to coerece the operands to the same data type for comparison. It coerces '8' string into num.
+'8' === 8; // => returns false because data types are different and the === means strict equality

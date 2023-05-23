@@ -1,0 +1,8 @@
+Primitives
+- string
+- number
+- boolean
+- undefined
+- null
+- bigInt
+- symbol <- Missed this one based on memory alone but found it in the documenation

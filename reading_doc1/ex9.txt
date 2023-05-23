@@ -1,0 +1,4 @@
+let tweet = 'Starting to get the hang of it... #javascript #launchschool';
+tweet.split(' '); // => ['Starting', ... , '#launchschool']
+tweet.split(' ').reverse(); => ['#launchschool', ... , 'Starting']
+tweet.split(' ').reverse().join(' '); => '#launchschool #javascript ... Starting'

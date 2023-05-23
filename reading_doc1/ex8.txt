@@ -1,0 +1,3 @@
+typeof tweet; //=> 'string'
+typeof words; //=> 'object' | there is no built-in array data type. If you need to know if something is an array, you can use Array.isArray(yourArray);
+typeof isValid; //=> 'boolean'
